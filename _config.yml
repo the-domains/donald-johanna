@@ -1,0 +1,14 @@
+layout_spectrum: 0.9914894
+color:
+  saturation: 0.4851064
+  lightness: 0.9191489
+  brandStrength: 0.893617
+  brandColors:
+    - '#EBEBEB'
+    - '#282830'
+    - '#883839'
+    - '#AB8A4C'
+    - '#6E39C6'
+  rhythmicContrast: 0.09361702
+typography_spectrum: 0.1914894
+name: 'Donald & Johanna'
